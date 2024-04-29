@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(34, 32, 32);
+  color: aliceblue;
+  font-weight: 700;
+}
+
+.center {
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  flex-direction: column;
+}
+#clock{
+    font-size: 40px;
+    background-color: rgb(81, 90, 178);
+    padding: 20px 50px;
+    border-radius: 7px;
+}
